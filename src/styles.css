@@ -93,6 +93,9 @@ p {
 
 .socials {
     padding-bottom: 200px;
+    /* display: inline-block; */
+    float: right;
+
 }
 
 .logo {
@@ -102,6 +105,8 @@ p {
 
 .social {
     margin: 20px;
+    display: flex;
+    float: right;
 }
 
 .sub-section {
